@@ -1,6 +1,6 @@
 # Device Manager Control Panel
 
-[![Device Manager Control Panel](pink.png)](https://github.com/thewindowsclub/device.manager.control.panel)
+[![Device Manager Control Panel](pink.png)](https://computer-solved.com/device-manager-control-panel/)
 
 Device Manager is also accessible in Control Panel. First, open Control Panel by clicking the “Start” menu, typing “control panel,” and clicking the “Control Panel” icon. In Control Panel, click the “Hardware and Sound” category, then select “Device Manager.
 
